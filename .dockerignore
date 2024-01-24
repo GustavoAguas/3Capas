@@ -1,0 +1,15 @@
+# Docker Ignore
+
+# Ignore archivos y carpetas en la carpeta raíz
+node_modules
+dist
+
+# Ignora archivos y carpetas en el directorio frontend
+frontend/node_modules
+frontend/dist
+
+# Ignora archivos y carpetas en el directorio backend
+backend/node_modules
+
+# Ignora archivos y carpetas en el directorio database
+database/node_modules
